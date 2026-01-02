@@ -72,4 +72,5 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-![](https://nirzak-streak-stats.vercel.app/?user=AkshatRai07&theme=dark&hide_border=false)
+![](https://denvercoder1-github-readme-streak-s.vercel.app?user=AkshatRai07&theme=dark&hide_border=false)
+![](https://anuraghazra-github-readme-stats-nu.vercel.app/api?username=AkshatRai07&theme=dark&hide_border=false)
