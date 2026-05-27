@@ -15,24 +15,10 @@
 <a href="https://www.github.com/AkshatRai07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akshatrai07" height="30" width="40" /></a>
 <a href="https://twitter.com/AkshatRai007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a" height="30" width="40" /></a>
 <a href="https://kaggle.com/akshatrai07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshatrai07" height="30" width="40" /></a>
-<a href="mailto:sanamrai2007@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="email" height="30" width="40" /></a>
+<a href="mailto:sanamrai2007@gmail.com"><img align="center" src="https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="email" height="43" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
-
-**Blockchain & Backend:**
-<br>
-<a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="ethereum" width="40" height="40"/>
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/VW8rDbyL/solidity-logo.jpg" alt="solidity" width="40" height="40"/> </a>
-<a href="https://getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/foundry-rs/.github/refs/heads/main/profile/logo.png" alt="foundry" width="40" height="40"/> </a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="hardhat" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rochacbruno/rust_memes/master/img/rusty_logo.jpg" alt="rust" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="express" width="40" height="40"/> </a>
 
 **AI / ML:**
 <br>
@@ -47,6 +33,20 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+
+**Blockchain & Backend:**
+<br>
+<a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="ethereum" width="40" height="40"/>
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/VW8rDbyL/solidity-logo.jpg" alt="solidity" width="40" height="40"/> </a>
+<a href="https://getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/foundry-rs/.github/refs/heads/main/profile/logo.png" alt="foundry" width="40" height="40"/> </a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="hardhat" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rochacbruno/rust_memes/master/img/rusty_logo.jpg" alt="rust" width="40" height="40"/> </a>
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="express" width="40" height="40"/> </a>
 
 **Frontend:**
 <br>
